@@ -23,7 +23,7 @@ github_username:  moralsh
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 #theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
