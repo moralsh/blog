@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Just a very basic test"
 date:   2018-02-13 17:32:18 +0100
 categories: jekyll update
