@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post
-tags: [Test, Programming]
+tags: [Test, Programing]
 excerpt_separator: <!--more-->
 ---
 

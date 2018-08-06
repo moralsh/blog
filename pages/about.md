@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+feature-img: "assets/img/raul.jpg"
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+There's enough info about me on the different social network links on the bottom of the page. 
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Speedcubing, Web Developement, Android and Traveling are my main passions. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I'll certainly write a bit more about me in the future.
  
