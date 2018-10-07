@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Second post (Finally!)
-tags: [Programing, cubing, WCA]
+tags: [Programing, Cubing, WCA]
+comments: true
 excerpt_separator: <!--more-->
 ---
 
