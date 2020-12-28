@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
+baseurl: ""
 url: "http://blog.moralsh.org"
 title: Moralsh's Blog
 description: "A website with blog posts and pages" # used by search engines
